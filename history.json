@@ -1,0 +1,32 @@
+[
+    {
+        "coin": "bitcoin",
+        "price": 76926,
+        "timestamp": "2026-04-28 13:23:37"
+    },
+    {
+        "coin": "ethereum",
+        "price": 2310.02,
+        "timestamp": "2026-04-28 13:23:37"
+    },
+    {
+        "coin": "bitcoin",
+        "price": 76950,
+        "timestamp": "2026-04-28 13:27:23"
+    },
+    {
+        "coin": "ethereum",
+        "price": 2311.52,
+        "timestamp": "2026-04-28 13:27:23"
+    },
+    {
+        "coin": "bitcoin",
+        "price": 76956,
+        "timestamp": "2026-04-29 09:23:35"
+    },
+    {
+        "coin": "ethereum",
+        "price": 2312.9,
+        "timestamp": "2026-04-29 09:23:35"
+    }
+]
